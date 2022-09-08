@@ -13,7 +13,7 @@ def fatorial(i):
   return resultado
 
 n = int(input("Digite o número de termos: "))   
-x = int(input("Digite o valor do exponencial: "))
+x = float(input("Digite o valor do exponencial: "))
 
 print("\n")
 
